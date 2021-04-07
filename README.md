@@ -58,4 +58,4 @@ Foreign keys are just as important as primary keys. While primary keys contain u
 - 78 assistant engineers are eligible for mentorship.
 
 # Summary:
-All of these current retire-eligible employees have held different positions at Pewlett Hackard. According to the table below, nearly 14,000 and roughly 13,000 had senior engineer and engineer positions, respectively. Following this group, almost 13,000 and 12,000 had senior staff and staff positions, respectively. It was interesting to see that there were only a handful of manager positions. This could be a good opportunity for HR to investigate why there were so few managers.
+All of these current retire-eligible employees have held different positions at Pewlett Hackard. We can see that of the 90,398 potential spaces that need to be filled due to retirement, there are only 1,549 employees currently eligible to mentor new employees to fill those positions. This means there is one mentor for every 58 new employees.. It was interesting to see that there were new employees. This could be a good opportunity.
